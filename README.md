@@ -2,7 +2,7 @@
  
  Meu nome é *Barbara*
 
-- Estou estudando [Alura] (https://www.alura.com.br)
+- Estou estudando [Alura](https://www.alura.com.br)
 - Desenvolvendo vários projetos
 - Escola Simone Machado, professora Jônaci
 - Ler livros é um otimo passa tempo
