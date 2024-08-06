@@ -1,16 +1,12 @@
-## Hi there 👋
+ ## 🌻 Bem vindos ao meu prefil 🌻
+ 
+ Meu nome é *Barbara*
 
-<!--
-**B4rbar4/B4rbar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando Alura
+- Escola Simone Machado
+- com a professora Jônaci
+- Ler livros é um otimo passa tempo
+- 📖📘
+  ### "Perder para a razão, sempre é ganhar."_Aldo Novak.
+  ### "O importante não é vencer todos os dias, mas lutar sempre."_Waldemar Valle Martins.
+-📖📘
