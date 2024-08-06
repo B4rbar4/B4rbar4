@@ -2,9 +2,13 @@
  
  Meu nome é *Barbara*
 
-- Estou estudando Alura
+- Estou estudando [Alura] (https://www.alura.com.br)
+- Desenvolvendo vários projetos
 - Escola Simone Machado, professora Jônaci
 - Ler livros é um otimo passa tempo
+  
+  ### CURIOSIDADES
+  
 - Eu gosto das seguintes frases:
   
   ### "Perder para a razão, sempre é ganhar."_Aldo Novak.
