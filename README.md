@@ -5,6 +5,7 @@
 - Estou estudando Alura
 - Escola Simone Machado, professora Jônaci
 - Ler livros é um otimo passa tempo
+- Eu gosto das seguintes frases:
   
   ### "Perder para a razão, sempre é ganhar."_Aldo Novak.
   ### "O importante não é vencer todos os dias, mas lutar sempre."_Waldemar Valle Martins.📖📘
