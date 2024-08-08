@@ -23,3 +23,6 @@
 ![](https://media1.tenor.com/m/ss23ELgluM0AAAAC/the-promised-neverland-anime.gif)
 
 🌻 *Tchau* 🌻
+
+
+![](https://tenor.com/pt-BR/view/angry-emma-the-promised-neverland-tpn-gif-21833685) 
