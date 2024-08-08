@@ -25,4 +25,4 @@
 🌻 *Tchau* 🌻
 
 
-![](https://tenor.com/pt-BR/view/angry-emma-the-promised-neverland-tpn-gif-21833685) 
+
